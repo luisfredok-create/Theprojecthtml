@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-  display: flex;              /* horizontal layout */
+  display: flex;              
   background-color: #222;
   padding: 10px 20px;
 }
@@ -17,12 +17,12 @@ body {
   border-radius: 4px;
 }
 
-/* hover effect */
+
 .nav-link:hover {
   background-color: #444;
 }
 
-/* ACTIVE PAGE */
+
 .nav-link.active {
   background-color: #007bff;
 }
