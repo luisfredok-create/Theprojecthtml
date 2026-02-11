@@ -9,10 +9,17 @@
       top: 0;
     }
 
-    nav a.active {
-      background-color: #04AA6D;
+    nav a {
+        text-decoration: none;
+        color: black;
+        padding: 10px;
     }
-   
+
+    nav a.active {
+        color: green;
+        font-weight: bold;
+    }
+
     nav {
       background-color: #222;
       padding: 10px;
