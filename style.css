@@ -9,7 +9,7 @@
       top: 0;
     }
 
-    nav li a.active {
+    nav a.active {
       background-color: #04AA6D;
     }
    
